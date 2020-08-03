@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "dotenv": "^7.0.0",
+    "mem": ">=4.0.0",
     "openzeppelin-solidity": "^2.2.0",
     "solc": "^0.5.7",
     "truffle-hdwallet-provider": "^1.0.5"
@@ -18,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkobar/BlockArt-erc721.git"
+    "url": "git+https://github.com/BlockArt/BlockArt-erc721.git"
   },
   "author": "mk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mkobar/BlockArt-erc721/issues"
+    "url": "https://github.com/BlockArt/BlockArt-erc721/issues"
   },
-  "homepage": "https://github.com/mkobar/BlockArt-erc721#readme"
+  "homepage": "https://github.com/BlockArt/BlockArt-erc721#readme"
 }
