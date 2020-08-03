@@ -1,0 +1,29 @@
+{
+  "name": "blockart-erc721",
+  "version": "1.0.0",
+  "description": "used to generate erc721 tokens",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "openzeppelin-solidity": "^2.2.0",
+    "solc": "^0.5.7",
+    "truffle-hdwallet-provider": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkobar/BlockArt-erc721.git"
+  },
+  "author": "mk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkobar/BlockArt-erc721/issues"
+  },
+  "homepage": "https://github.com/mkobar/BlockArt-erc721#readme"
+}
